@@ -20,7 +20,7 @@ export default function App() {
             }}
           >
             <div style={{ overflow: "auto" }}>
-              <h4>React Localization Example</h4>
+              <h1>React Localization Example</h1>
             </div>
             <div style={{ marginTop: 50 }}>
               <Routes />
