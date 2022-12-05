@@ -13,9 +13,9 @@ export default function About() {
             style={{ color: "#0099ff" }}
             target="_blank"
             rel="noreferrer"
-            href="http://ui-dev.in"
+            href="https://www.mindbowser.com/blog/"
           >
-            UI Dev
+            Read more about react-localization here...
           </a>
         )}
       </div>
